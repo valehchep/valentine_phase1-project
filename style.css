@@ -31,8 +31,6 @@ transition: .3 ease-in-out;
 font-size: 1.4rem;
 
 }
-
-
 div ul li a:hover{
    
     text-decoration: dashed;
