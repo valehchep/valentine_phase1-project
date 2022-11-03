@@ -51,8 +51,7 @@ this API is also used to locate the location where the project headqurters is
 ![image](https://user-images.githubusercontent.com/111956157/199793644-4385edcd-254b-4669-ba6e-6dbffec40d3b.png)
 
 # small screen overview:
-![image](https://user-images.githubusercontent.com/111950276/199400447-9fdae4a9-0cfe-4106-a0d2-ba6077768708.png)
-
+in the above example
 
 ### TOPICS:
 price
