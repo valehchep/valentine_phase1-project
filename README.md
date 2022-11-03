@@ -55,9 +55,12 @@ this API is also used to locate the location where the project headqurters is
 
 
 ### TOPICS:
+price
+gallery
+schedude
+book
+![image](https://user-images.githubusercontent.com/111956157/199794852-3b052aaa-30b4-4016-960e-14f957db854c.png)
 
-## CONTRIBUTIONS
-![image](https://user-images.githubusercontent.com/111950276/199226812-552abe39-845d-4650-8031-4b34fba62e64.png)
 
 
 ## MIT License
