@@ -14,7 +14,7 @@ Valentine Cherutich      :          2/ 11 /2022
 
 
 
-forests promote resilience since they can offer safety nets for livelihoods and are usually consumed more frequently when food is scarce. When they are sold, forest and tree products can help the world's food system become more nutrient-sensitive. minimizing water and air pollution. preserving open spaces and natural areas. conserving biodiversity, endangered species, and habitats for fish and animals. managing and defending wetlands and watersheds. maintaining leisure facilities and beautiful environments.
+In recent years, smallholder water grounds began to flourish along the banks of the Olkeriai, the county's principal sand river, in the dry regions of Kajiado. The river is around 100 km long, and its catchment area is about 1500 km2 (Fig. 1). Mashuru serves as the country's administrative center, and it is connected to Nairobi, the nation's capital, by a recently paved road.
 # MY CONTACT
 +254743603868
 
